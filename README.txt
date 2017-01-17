@@ -1,6 +1,6 @@
 BABY NAME GENERATOR
 
-User can pick babynames she/he likes and export them to a text-file.
+User can pick randomized babynames she/he likes and export them to a text-file.
 
 version 0.6
 
